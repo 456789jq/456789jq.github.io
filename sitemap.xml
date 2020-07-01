@@ -1,41 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://456789jq.github.io/about/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-02-21T18:58:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://456789jq.github.io/post/adb%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://example.org/posts/first/</loc>
+    <lastmod>2020-02-21T18:58:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://456789jq.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-02-21T18:58:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://456789jq.github.io/post/</loc>
-    <priority>0</priority>
+    <loc>http://example.org/posts/adb%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2019-08-01T10:22:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://456789jq.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>http://example.org/posts/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/</loc>
+    <lastmod>2019-08-01T10:22:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://456789jq.github.io/</loc>
-    <priority>0</priority>
+    <loc>http://example.org/posts/%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2019-08-01T10:22:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://456789jq.github.io/post/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://456789jq.github.io/post/fist/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
